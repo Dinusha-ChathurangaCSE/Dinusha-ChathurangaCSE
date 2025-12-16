@@ -94,4 +94,5 @@ Hi 👋! My name is Chathuranga Jayasooriya and I'm a DevOps & Cloud Enthusiast 
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Dinusha-ChathurangaCSE/Dinusha-ChathurangaCSE/output/snake.svg" alt="Snake animation" />
+
