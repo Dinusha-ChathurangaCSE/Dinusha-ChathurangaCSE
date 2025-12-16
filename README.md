@@ -10,7 +10,9 @@ Hi 👋! My name is Chathuranga Jayasooriya and I'm a DevOps & Cloud Enthusiast 
 - ⚙️ Love building **CI/CD pipelines, Kubernetes platforms, and GitOps workflows**
 
 ---
+<div align="center">
   <img src="https://img.shields.io/badge/GitHub%20Rank-A%2B-success?style=for-the-badge" />
+
 <div align="center">
 
 
