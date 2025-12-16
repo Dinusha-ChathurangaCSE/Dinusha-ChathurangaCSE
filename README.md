@@ -24,7 +24,10 @@ Hi 👋! My name is Chathuranga Jayasooriya and I'm a DevOps & Cloud Enthusiast 
 
 #### 🚀 DevOps & Cloud
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="30" />
+
+
+
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" />
   <img width="12" />
