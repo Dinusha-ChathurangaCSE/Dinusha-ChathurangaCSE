@@ -10,11 +10,11 @@ Hi 👋! My name is Chathuranga Jayasooriya and I'm a DevOps & Cloud Enthusiast 
 - ⚙️ Love building **CI/CD pipelines, Kubernetes platforms, and GitOps workflows**
 
 ---
-
-<div align="center">
   <img src="https://img.shields.io/badge/GitHub%20Rank-A%2B-success?style=for-the-badge" />
+<div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Dinusha-ChathurangaCSE&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Dinusha-ChathurangaCSE&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dinusha-ChathurangaCSE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
